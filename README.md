@@ -8,6 +8,11 @@ engineering internships and roles where I can keep doing that.
 analysis, static analysis, red team / blue team fundamentals.
 
 **Flagship projects**
+- **CAPTRACE** (research in progress) — typed capability graph learning for
+  malicious Python package detection and version-level injection localization.
+  The research design and evaluation are still in progress; no detection result
+  or publication is claimed. **Authors:** Bharathithasan S, Dr. T. M. Thiyagu,
+  Dr. O. Mythreyi, Sathish P, Ganesh M, Vaishal U.
 - 🛡️ [AEGIS-LLM-FIREWALL](https://github.com/bharathi12-hub/AEGIS-LLM-FIREWALL) —
   a team-built defensive gateway that detects and blocks LLM prompt-injection and
   jailbreak attacks, including character-injection evasion that defeats a
