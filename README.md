@@ -9,15 +9,17 @@ analysis, static analysis, red team / blue team fundamentals.
 
 **Flagship projects**
 - 🛡️ [AEGIS-LLM-FIREWALL](https://github.com/bharathi12-hub/AEGIS-LLM-FIREWALL) —
-  a defensive gateway that detects and blocks LLM prompt-injection and
+  a team-built defensive gateway that detects and blocks LLM prompt-injection and
   jailbreak attacks, including character-injection evasion that defeats a
-  plain classifier. FastAPI + React, full test suite, threat-model and
-  hardening writeups included.
-- 🔐 [QuantumShield](https://github.com/bharathi12-hub/Quantam-Cyber-Security) —
+  plain classifier. Team: Bharathithasan S, Ganesh M, Monish Tushar V.S.
+  My documented work includes parser and console security hardening.
+  FastAPI + React, test suite, threat model and hardening writeups included.
+- 🔐 [QuantumShield](https://github.com/bharathi12-hub/QuantumShield) —
   scans source code across 13+ languages for quantum-vulnerable cryptography
   and maps findings to NIST post-quantum replacements (ML-KEM/ML-DSA/SLH-DSA).
-  Built with a co-author; FastAPI + React, compliance mapping (NIST, PCI DSS,
-  ISO 27001, SOC 2).
+  Team: Bharathithasan S, Ganesh M, Rohith V, Renith V. My documented work
+  includes scan-path security hardening. FastAPI + React, with compliance
+  mapping (NIST, PCI DSS, ISO 27001, SOC 2).
 - 🌐 [CyberPunk Detection Tool](https://github.com/bharathi12-hub/CyberPunk-Detection-Tool) —
   a browser extension that scores website trustworthiness in real time using
   phishing, tracker, and threat-intelligence detection engines.
